@@ -7,10 +7,10 @@ This data Analysis is using the below 5 data set of an imaginary hotel chain. Di
 
   Requirements
 - **Files/**
-      - **datasets/fact_bookings.csv**
-      - **datasets/dim_date.csv**
-      - **datasets/dim_hotels.csv**
-      - **datasets/dim_rooms.csv**
-      - **datasets/fact_aggregated_bookings.csv**
+      - **/fact_bookings.csv**
+      - **/dim_date.csv**
+      - **/dim_hotels.csv**
+      - **/dim_rooms.csv**
+      - **/fact_aggregated_bookings.csv**
 - **Pandas/**
 - **matplotlib/** 
